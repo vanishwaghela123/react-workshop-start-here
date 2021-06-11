@@ -1,16 +1,8 @@
-## Jane Doe
+## Vanshika Waghela
 
 ### About Me:
+I'm a student from TE-B-EXTC. And I'm excited to be a part of this internship!! 
+My area of interest is web and app development. 
 
 ### Links to my assignments here:
 
-<!--
-Building To Do lists in GitHub Markdown
-- [ ] This task is not completed
-- [ ] This task is completed
--->
-
-<!-- Add Your assignments as a To Do List -->
-
-<!-- - [ ] [Name of the file](Link to view the code) -->
-- [ ] [React Clone Tweaks](#)
